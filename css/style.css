@@ -427,9 +427,11 @@ video {
 }
 
 
+
 .contact-container h2 {
     font-size: 35px;
     margin-bottom: 30px;
+    margin-left: 60px;
     color: #0a3d62;
     display: block;
 }
